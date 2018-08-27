@@ -30,3 +30,5 @@ Running elsewhere
 AWS
 
 Docker
+
+(original link: https://github.com/hse-aml/natural-language-processing?utm_medium=email&utm_source=other&utm_campaign=opencourse.blRLgKLDEeeMNA6V0QN2ag.announcements~opencourse.blRLgKLDEeeMNA6V0QN2ag.0S5NW7KAEeez7xIEHso5pg#running-on-google-colab )
